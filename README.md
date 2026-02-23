@@ -1,7 +1,7 @@
 # Resell-Hub
 A desktop-based Product Reselling Management System built using Java Swing. This application allows users to list products for resale and enables other users to browse and add items to their cart.  The system includes role-based authentication, a modern dashboard with sidebar navigation, and structured product management.
 
-#TEAM MEMBERS:Abhinand Ajikumar(24UBC101)
+# TEAM MEMBERS:Abhinand Ajikumar(24UBC101)
 #            :Deon John(24ubc127)
 
 
@@ -26,7 +26,7 @@ To allow buyers to browse products and add them to their cart.
 
 To demonstrate GUI design and OOP concepts in Java.
 
- Features:
+# Features:
  Role-Based Login
 
 Admin (Seller) access
@@ -43,7 +43,7 @@ Category-based browsing
 
 Clean and structured GUI
 
- Product Categories
+ Product Categories:
 
 Cars
 
@@ -51,7 +51,7 @@ Bikes
 
 Others
 
-🛒 Cart System
+ Cart System:
 
 Add to cart
 
@@ -61,7 +61,7 @@ Calculate total price
 
 User-specific cart storage
 
- Admin Panel
+ Admin Panel:
 
 Add new products for resale
 
