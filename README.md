@@ -3,6 +3,8 @@ A desktop-based Product Reselling Management System built using Java Swing. This
 
 TEAM MEMBERS:Abhinand Ajikumar(24UBC101)
             :Deon John(24ubc127)
+
+
 Project Title:
 ResellHub – Desktop-Based Product Reselling Platform Using Java Swing
 
