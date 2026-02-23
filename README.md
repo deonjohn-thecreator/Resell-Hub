@@ -6,13 +6,13 @@ TEAM MEMBERS:Abhinand Ajikumar(24UBC101)
 Project Title:
 ResellHub – Desktop-Based Product Reselling Platform Using Java Swing
 
-🧩 Problem Statement
+ Problem Statement
 
 Many individuals want to resell used or second-hand products (vehicles, accessories, etc.), but there is no simple desktop-based system that allows sellers to list products and buyers to browse and purchase efficiently.
 
 This project solves that problem by creating a structured Reselling Management System with role-based access control and a modern graphical interface.
 
-🎯 Objective
+ Objective
 
 To design a desktop-based reselling platform using Java.
 
@@ -24,8 +24,8 @@ To allow buyers to browse products and add them to their cart.
 
 To demonstrate GUI design and OOP concepts in Java.
 
-🚀 Features
-🔐 Role-Based Login
+ Features:
+ Role-Based Login
 
 Admin (Seller) access
 
@@ -33,7 +33,7 @@ Viewer (Buyer) access
 
 Credential validation
 
-🖥 Modern Dashboard
+ Modern Dashboard
 
 Sidebar navigation
 
@@ -41,7 +41,7 @@ Category-based browsing
 
 Clean and structured GUI
 
-📦 Product Categories
+ Product Categories
 
 Cars
 
@@ -59,7 +59,7 @@ Calculate total price
 
 User-specific cart storage
 
-👨‍💼 Admin Panel
+ Admin Panel
 
 Add new products for resale
 
@@ -77,27 +77,20 @@ Java Collections Framework (HashMap, ArrayList)
 
 Object-Oriented Programming (OOP)
 
-🏗 Project Structure
-ResellHub/
-│
-├── Main.java
-├── Login.java
-├── Dashboard.java
-├── AdminPanel.java
-├── ProductPage.java
-├── CartPage.java
-├── UserDatabase.java
-├── ProductDatabase.java
-├── CartDatabase.java
-│
-├── screenshots/
-│   ├── login.png
-│   ├── dashboard.png
-│   ├── product_page.png
-│   ├── cart.png
-│
-└── README.md
-▶️ Steps to Run the Program
+Project Structure:
+ResellHub
+1) Main.java
+2)Login.java
+3) Dashboard.java
+4) AdminPanel.java
+5) ProductPage.java
+6) CartPage.java
+7) UserDatabase.java
+8) ProductDatabase.java
+9) CartDatabase.java
+
+   
+ Steps to Run the Program:
 
 Install Java (JDK 8 or higher).
 
@@ -109,14 +102,15 @@ Run Main.java.
 
 Login using the provided credentials.
 
-🔑 Sample Login Credentials
+ Sample Login Credentials:
 Admin (Seller)
 Username: admin
 Password: admin123
 Viewer (Buyer)
 Username: user
 Password: user123
-🧪 Sample Test Cases
+
+ Sample Test Cases:
 Test Case 1 – Admin Adding Product
 
 Input:
